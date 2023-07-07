@@ -1,4 +1,4 @@
-# UAS
+# PROGRAM_Data_ Base_Transaksi_Jual_Beli
 Nama kelompok :
 - Ayu Putu Riska Riana Yanti ( 21103026)
 - Windi Rabiantul Aini (21103029)
